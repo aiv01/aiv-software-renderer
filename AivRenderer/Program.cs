@@ -7,23 +7,6 @@ namespace AivRenderer
 	class MainClass
 	{
 
-		/*
-		 * 
-		 * 
-		 * TODO near/far
-		 * Rotations and full camera (with rotations)
-		 * Matrices
-		 * Better line drawing and Rasterization
-		 * Lights and shading
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 */
-
 		public static void Main (string[] args)
 		{
 
